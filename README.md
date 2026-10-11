@@ -129,6 +129,6 @@ jupyter notebook notebooks/house_price_prediction.ipynb
 
 ## Author
 
-**Faith Njah**: software developer with a background in Medical Physiology.
+**Faith Njah**
 
 More projects: [Salary Prediction](https://github.com/FaithNjah/salary-prediction-linear-regression) · [Titanic Data Cleaning](https://github.com/FaithNjah/titanic-data-cleaning) · [Medical Students Data Preprocessing](https://github.com/FaithNjah/medical-students-data-preprocessing)
